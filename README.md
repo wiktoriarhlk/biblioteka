@@ -2,7 +2,7 @@
 
 Projekt biblioteki numerycznej realizowany w ramach zajęć z metod numerycznych. Zawiera implementacje i testy podstawowych metod obliczeniowych wykorzystywanych w analizie numerycznej.
 
-# 📁 Struktura projektu
+# Struktura projektu
 
 Metody_numeryczne-main/
 
@@ -25,39 +25,39 @@ Projekt zrealizowany w ramach zajęć z metod numerycznych. Celem było utworzen
 
 ---
 
-## 📚 Zakres funkcjonalny
+## Zakres funkcjonalny
 
 Biblioteka zawiera zaimplementowane metody numeryczne w następujących obszarach:
 
-### 🔷 Układy równań liniowych
+### Układy równań liniowych
 - Eliminacja Gaussa z częściowym wyborem
 - Eliminacja Gaussa bez wyboru
 
-### 🔷 Interpolacja
+### Interpolacja
 - Interpolacja Lagrange’a
 - Obliczanie wartości wielomianu interpolacyjnego
 
-### 🔷 Aproksymacja
+### Aproksymacja
 - Metoda najmniejszych kwadratów (regresja liniowa)
 
-### 🔷 Całkowanie numeryczne
+### Całkowanie numeryczne
 - Metoda trapezów
 - Metoda Simpsona
 - Kwadratura Gaussa-Legendre’a (dla n = 2–5)
 
-### 🔷 Równania różniczkowe zwyczajne (ODE)
+### Równania różniczkowe zwyczajne (ODE)
 - Metoda Eulera
 - Metoda Heuna (Euler poprawiony)
 - Metoda punktu środkowego
 - Metoda Rungego-Kutty czwartego rzędu (RK4)
 
-### 🔷 Równania nieliniowe
+### Równania nieliniowe
 - Metoda Newtona
 - Metoda siecznych
 
 ---
 
-## 🛠️ Kompilacja projektu
+## Kompilacja projektu
 
 ### Wymagania
 - Kompilator zgodny z C++17 (np. g++, clang++, MSVC)
@@ -78,12 +78,12 @@ Biblioteka zawiera zaimplementowane metody numeryczne w następujących obszarac
 - Naciśnij ▶ aby uruchomić
 
 
-## ✅ Testowanie
+## Testowanie
 
 Każda funkcja posiada testy jednostkowe (`tests/`) sprawdzające poprawność działania oraz przypadki brzegowe.
 
 
-## 👨‍💻 Autor
+## Autor
 
 Projekt opracowany w ramach ćwiczeń z metod numerycznych przez Joannę Polak i Wiktorię Rychlak.
 
